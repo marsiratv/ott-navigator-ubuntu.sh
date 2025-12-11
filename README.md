@@ -1,5 +1,5 @@
 # Download script
-wget https://raw.githubusercontent.com/your-repo/ott-navigator/main/scripts/ott-navigator-ubuntu.sh
+wget [https://raw.githubusercontent.com/your-repo/ott-navigator/main/scripts/ott-navigator-ubuntu.sh](https://raw.githubusercontent.com/marsiratv/ott-navigator-ubuntu.sh/refs/heads/main/ott-navigator-ubuntu.sh)
 
 
 
